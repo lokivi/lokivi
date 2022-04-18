@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning Full Stack and Cloud services.
 - 😍 My hobbies are drawing, playing cricket, cooking and coding.
 - 💌 Contact me at loke19120.it@rmkec.ac.in / lokeshwarbarani1922002@gmail.com.
+- 🀄 LinkedIn : https://www.linkedin.com/in/lokeshwar-barani-416a06197
 
 <!---
 lokivi/lokivi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
